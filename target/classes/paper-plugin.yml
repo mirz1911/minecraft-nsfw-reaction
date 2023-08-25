@@ -1,0 +1,4 @@
+name: nfswreac
+version: '1.0-SNAPSHOT'
+main: me.mirz1911.nfswreac.Nfswreac
+api-version: 1.19

@@ -1,0 +1,4 @@
+name: nfswreac
+version: '${project.version}'
+main: me.mirz1911.nfswreac.Nfswreac
+api-version: 1.19
